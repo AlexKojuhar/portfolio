@@ -6,7 +6,7 @@ This repository is currently under development and will soon transform into my p
 
 ## Preview
 
-![Coming Soon](./comming-soon.gif)
+![Coming Soon](./coming-soon.gif)
 
 ## Technologies Used
 
